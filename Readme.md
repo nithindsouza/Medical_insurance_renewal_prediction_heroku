@@ -1,11 +1,8 @@
 #project is deployed in heroku server already
-link [model](https://health-insurance-renewal-pred.herokuapp.com/)
+[link](https://health-insurance-renewal-pred.herokuapp.com/)
 
 
-
-
-
-
+If you want to re use this project can run as follows
 
 How to run?
 
@@ -17,7 +14,7 @@ pip install mysql-connector-python
 install mysql-flask connector in anaconda prompt using below command
 pip install flask_mysqldb
 
-install MySQL workbench 8.0 or above (link : https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-8.0.25-winx64.msi)
+install MySQL workbench 8.0 or above. [link to download](https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-8.0.25-winx64.msi)
 create server with user:"some_name" password:"some_name"
 (user:root & password:root is used in codes)
 (have to edit config dictionary in main.py if different credintial is used)
