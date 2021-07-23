@@ -1,4 +1,4 @@
-#project is deployed in heroku server already
+Project is deployed in heroku server already
 [link](https://health-insurance-renewal-pred.herokuapp.com/)
 
 
