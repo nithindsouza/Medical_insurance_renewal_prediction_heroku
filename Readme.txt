@@ -1,5 +1,5 @@
 #project is deployed in heroku server already
-link [https://health-insurance-renewal-pred.herokuapp.com/]
+link [model](https://health-insurance-renewal-pred.herokuapp.com/)
 
 
 
