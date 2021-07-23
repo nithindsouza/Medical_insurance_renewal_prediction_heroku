@@ -1,3 +1,12 @@
+#project is deployed in heroku server already
+link [https://health-insurance-renewal-pred.herokuapp.com/]
+
+
+
+
+
+
+
 How to run?
 
 Before running this project must install some modules
